@@ -7,6 +7,7 @@ After compiling using `make`, two binary files are created.
 
 - copyit
 - copyit_extracredit
+
 ==========
 
 ### copyit
@@ -15,6 +16,7 @@ After compiling using `make`, two binary files are created.
 **copyit** will read in the source file and then copy it over to the destination path specified (relative to the current directory). 
 
 *Usage:* `$ copyit <sourcefile> <targetfile>`
+
 ======================
 
 ### copyit_extracredit
